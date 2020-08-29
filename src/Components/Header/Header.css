@@ -1,0 +1,10 @@
+.navbarNav a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
+.navbarNav a:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
