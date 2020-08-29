@@ -1,76 +1,106 @@
 [{
     "id": 1,
-    "name": "Learn Python from Scratch",
+    "name": "Learn Python",
     "price": 1969,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Bren Faircliffe"
   }, {
     "id": 2,
-    "name": "Learn Web Development from Scratch: Go Beyond the Syntax",
+    "name": "Learn Web Development",
     "price": 3087,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Dyanne Eat"
   }, {
     "id": 3,
-    "name": "Learn Web Development from Scratch: Go Beyond the Syntax",
+    "name": "Learn Javascript",
     "price": 1725,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Rayna Lamminam"
   }, {
     "id": 4,
-    "name": "Learn Scala from Scratch",
+    "name": "Learn React",
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "price": 1926,
     "instructor": "Brade McKimmie"
   }, {
     "id": 5,
-    "name": "Learn C++ from Scratch",
+    "name": "Learn C++",
     "price": 2054,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Merry Ridings"
   }, {
     "id": 6,
-    "name": "Learn C from Scratch",
+    "name": "Learn C",
     "price": 3305,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Orelee Kealey"
   }, {
     "id": 7,
     "name": "Learn Dart: First Step to Flutter",
     "price": 3642,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Caressa Hasslocher"
   }, {
     "id": 8,
     "name": "Learn Rust from Scratch",
     "price": 3879,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Elysha Duckerin"
   }, {
     "id": 9,
-    "name": "Learn Perl from Scratch",
+    "name": "Learn Java",
     "price": 2974,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Holden Larose"
   }, {
     "id": 10,
-    "name": "Learn R from Scratch",
+    "name": "Learn Algorithm",
     "price": 2744,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Quinn Isack"
   }, {
     "id": 11,
-    "name": "Learn PHP from Scratch",
+    "name": "Learn PHP",
     "price": 1959,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Adriana Bainton"
   }, {
     "id": 12,
     "name": "Learn Vue.js from Scratch: Building & Testing a Movie App",
     "price": 2893,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Nicole Astridge"
   }, {
     "id": 13,
     "name": "HTML, CSS, and Javascript for Web Developers",
     "price": 2701,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Vanda Benezet"
   }, {
     "id": 14,
     "name": "Modern Art & Ideas",
     "price": 2447,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Shae Lauga"
   }, {
     "id": 15,
     "name": "Introduction to Artificial Intelligence (AI)",
     "price": 3875,
+    "url":"https://bestwebsoft.com/the-best-programming-languages-to-learn-in-2019/",
+    "img":"https://bestwebsoft.com/wp-content/uploads/2019/02/programming-languages.jpg",
     "instructor": "Chickie Feldmark"
   }]

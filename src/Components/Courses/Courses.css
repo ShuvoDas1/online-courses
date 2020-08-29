@@ -1,0 +1,9 @@
+.contents{
+    display: flex;
+    margin-top: 10px;
+    
+}
+.course-container{
+    border-right: 1px solid lightgray;
+    
+}

@@ -1,5 +1,11 @@
 .course{
-    border-bottom : 1px solid gray;
-    margin-right: 1px solid gray;
+    border-bottom : 1px solid lightgray;
+    margin-right: 10px;
+   display: flex;
+}
+.course img{
+    width: 250px;
+    height: 90%;
+    margin-right: 10px;
     
 }
